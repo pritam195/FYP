@@ -1,0 +1,5 @@
+Distance_mm,Label,f_res_GHz,Delta_f_MHz,Min_S11_dB,Bandwidth
+0.0,Without tumor,6.2400,0.00,-11.43,"5.83 - 10.78 GHz"
+10.5,Tumor in fat (d=10.5 mm),6.2500,10.00,-11.35,"5.83 - 10.79 GHz"
+16.0,Tumor interface (d=16 mm),6.2300,-10.00,-11.36,"5.83 - 10.79 GHz"
+21.5,Tumor in gland (d=21.5 mm),6.2300,-10.00,-11.37,"5.83 - 10.79 GHz"

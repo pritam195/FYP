@@ -1,0 +1,27 @@
+# openEMS binaries and dependencies
+*.exe
+*.dll
+*.pyd
+*.lib
+*.exp
+openEMS/
+matlab/
+share/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Raw simulation fields and mesh dumps
+sim/
+scratch/
+scratch_*.txt
+*.vtr
+*.h5
+*.xml
+*.log
+
+# Git / OS
+.DS_Store
+Thumbs.db
